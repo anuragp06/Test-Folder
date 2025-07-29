@@ -1,0 +1,8 @@
+{
+    "name": "bob",
+    "age": 22,
+    "subjects": [
+        "english",
+        "history"
+    ]
+}
